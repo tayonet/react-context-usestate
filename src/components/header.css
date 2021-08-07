@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.header {
+  display: flex;
+  height: 10vh;
+  background-color: orangered;
+  color: #fff;
+  justify-content: space-around;
+  align-items: flex-end;
+}
+
+h3 {
+  font-weight: 700;
+  font-size: 20px;
+}
